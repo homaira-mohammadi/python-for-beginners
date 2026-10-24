@@ -14,16 +14,16 @@ No experience needed: we start from *"What is programming?"* and finish by build
 
 | # | Lesson | You will learn | Slides | Notebook |
 |---|---|---|---|---|
-| 1 | [Introduction to Python](lessons/day-01-introduction-to-python/) | What programming is, `print()`, comments, syntax rules | ✅ | [Open](lessons/day-01-introduction-to-python/lesson.ipynb) |
-| 2 | [Variables, Data Types, Input & Operators](lessons/day-02-variables-data-types-and-input/) | Variables, `int` `float` `str` `bool`, `input()`, type conversion, `+ - * / // % **` | ✅ | [Open](lessons/day-02-variables-data-types-and-input/lesson.ipynb) |
-| 3 | [Conditional Statements](lessons/day-03-conditional-statements/) | `if` `elif` `else`, comparison & logical operators, first game | ✅ | [Open](lessons/day-03-conditional-statements/lesson.ipynb) |
-| 4 | [While Loops](lessons/day-04-while-loops/) | `while`, counters, input validation, `break` `continue` | — | [Open](lessons/day-04-while-loops/lesson.ipynb) |
-| 5 | [For Loops & range()](lessons/day-05-for-loops-and-range/) | `for`, `range()`, accumulators, nested loops, patterns | — | [Open](lessons/day-05-for-loops-and-range/lesson.ipynb) |
-| 6 | [Strings](lessons/day-06-strings/) | Indexing, slicing, string methods, f-string formatting | — | [Open](lessons/day-06-strings/lesson.ipynb) |
-| 7 | [Lists](lessons/day-07-lists/) | Creating & changing lists, looping, `sum` `max` `sorted`, to-do app | — | [Open](lessons/day-07-lists/lesson.ipynb) |
-| 8 | [Functions](lessons/day-08-functions/) | `def`, parameters, `return`, local variables | — | [Open](lessons/day-08-functions/lesson.ipynb) |
-| 9 | [Dictionaries & Tuples](lessons/day-09-dictionaries-and-tuples/) | key → value data, records, tuples, contact book | — | [Open](lessons/day-09-dictionaries-and-tuples/lesson.ipynb) |
-| 10 | [Final Project](lessons/day-10-final-project/) | `try`/`except`, planning a project, Student Grade Manager, your own project | — | [Open](lessons/day-10-final-project/lesson.ipynb) |
+| 1 | [Introduction to Python](lessons/day-01-introduction-to-python/) | What programming is, `print()`, comments, syntax rules | [Open](lessons/day-01-introduction-to-python/slides/Day%201%20%E2%80%94%20Introduction%20to%20Python.pdf) | [Open](lessons/day-01-introduction-to-python/lesson.ipynb) |
+| 2 | [Variables, Data Types, Input & Operators](lessons/day-02-variables-data-types-and-input/) | Variables, `int` `float` `str` `bool`, `input()`, type conversion, `+ - * / // % **` | [Open](lessons/day-02-variables-data-types-and-input/slides/Day%202%20%E2%80%94%20Variables%2C%20Data%20Types%2C%20Input%20%26%20Operators.pdf) | [Open](lessons/day-02-variables-data-types-and-input/lesson.ipynb) |
+| 3 | [Conditional Statements](lessons/day-03-conditional-statements/) | `if` `elif` `else`, comparison & logical operators, first game | [Open](lessons/day-03-conditional-statements/slides/Day%203%20%E2%80%94%20Conditional%20Statements.pdf) | [Open](lessons/day-03-conditional-statements/lesson.ipynb) |
+| 4 | [While Loops](lessons/day-04-while-loops/) | `while`, counters, input validation, `break` `continue` | [Open](lessons/day-04-while-loops/Slides/Day%204%20%E2%80%94%20While%20Loops.pdf) | [Open](lessons/day-04-while-loops/lesson.ipynb) |
+| 5 | [For Loops & range()](lessons/day-05-for-loops-and-range/) | `for`, `range()`, accumulators, nested loops, patterns | [Open](lessons/day-05-for-loops-and-range/slides/Day%205%20%E2%80%94%20For%20Loops%20and%20range%28%29.pdf) | [Open](lessons/day-05-for-loops-and-range/lesson.ipynb) |
+| 6 | [Strings](lessons/day-06-strings/) | Indexing, slicing, string methods, f-string formatting | [Open](lessons/day-06-strings/slides/Day%206%20%E2%80%94%20Strings.pdf) | [Open](lessons/day-06-strings/lesson.ipynb) |
+| 7 | [Lists](lessons/day-07-lists/) | Creating & changing lists, looping, `sum` `max` `sorted`, to-do app | [Open](lessons/day-07-lists/slides/Day%207%20%E2%80%94%20Lists.pdf) | [Open](lessons/day-07-lists/lesson.ipynb) |
+| 8 | [Functions](lessons/day-08-functions/) | `def`, parameters, `return`, local variables | [Open](lessons/day-08-functions/slides/Day%208%20%E2%80%94%20Functions.pdf) | [Open](lessons/day-08-functions/lesson.ipynb) |
+| 9 | [Dictionaries & Tuples](lessons/day-09-dictionaries-and-tuples/) | key → value data, records, tuples, contact book | [Open](lessons/day-09-dictionaries-and-tuples/slides/Day%209%20%E2%80%94%20Dictionaries%20and%20Tuples.pdf) | [Open](lessons/day-09-dictionaries-and-tuples/lesson.ipynb) |
+| 10 | [Final Project](lessons/day-10-final-project/) | `try`/`except`, planning a project, Student Grade Manager, your own project | [Open](lessons/day-10-final-project/slides/Day%2010%20%E2%80%94%20Final%20Project.pdf) | [Open](lessons/day-10-final-project/lesson.ipynb) |
 
 Every lesson folder has the same files:
 
