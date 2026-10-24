@@ -31,9 +31,9 @@ Every lesson folder has the same files:
 |---|---|
 | `README.md` | Lesson overview, key concepts and a suggested class plan |
 | `slides/` | The presentation (PDF to view on GitHub + PowerPoint) |
-| `lesson.ipynb` | 📘 The full lesson: explanations and code you can run |
-| `exercises.ipynb` | ✏️ Practice tasks (⭐ easy → ⭐⭐⭐ challenge) with empty code cells |
-| `solutions.ipynb` | ✅ Example answers with their output |
+| `lesson.ipynb` | The full lesson: explanations and code you can run |
+| `exercises.ipynb` | Practice tasks (⭐ easy → ⭐⭐⭐ challenge) with empty code cells |
+| `solutions.ipynb` | Example answers with their output |
 
 ---
 
@@ -120,4 +120,4 @@ covered by this license.
 
 Found a mistake or have an idea? Please [open an issue](../../issues). Suggestions are welcome!
 
-Happy coding! 🐍💙
+Happy coding! 🐍
